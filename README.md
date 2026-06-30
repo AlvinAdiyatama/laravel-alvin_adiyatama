@@ -65,3 +65,31 @@ Laravel project for Praktikum Pemrograman Web.
 ## Login Feature
 
 - Added login feature branch for practical assignment.
+
+- # Laravel Alvin Adiyatama
+
+## Deskripsi
+Project Laravel untuk praktikum Framework Web.
+
+## Teknologi
+- Laravel
+- PHP
+- MySQL
+- Bootstrap
+
+## Instalasi
+
+```bash
+composer install
+cp .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan serve
+```
+
+## Fitur
+- Login
+- Dashboard
+
+## Author
+Alvin Adiyatama
